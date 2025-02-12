@@ -6,6 +6,7 @@ I am a third-year computer science student who has attended both the University 
 ## 🚀 What I'm Up To
 - 🌌 Building my Game Development Studio called LunarLabs LLC. Check it out! [lunarlabs website](https://www.lunarlabs.cc/)
 - 💻 Exploring Java, C++, Swift, and Firebase.
+- 🚧 Building a resourceful phone application called You. Check it out! [Github Link](https://github.com/ogilcher/You/)
 
 Check out my [web portfolio](https://olivergilcher.com/)
 
