@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 I'm Oliver Gilcher</h1>
 
 # 💫 About Me:
-I am a third-year computer science student at the University of San Francisco, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a third-year computer science student who has attended both the University of San Francisco and Colorado Technical University. I am passionate about exploring the realms of coding, application development, and building robust applications. 
 
 ## 🚀 What I'm Up To
 - 🌌 Building my Game Development Studio called LunarLabs LLC. Check it out! [lunarlabs website](https://www.lunarlabs.cc/)
-- 💻 Exploring C++
+- 💻 Exploring Java, C++, Swift, and Firebase.
 
 Check out my [web portfolio](https://olivergilcher.com/)
 
