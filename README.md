@@ -4,7 +4,7 @@
 I am a third-year computer science student who has attended both the University of San Francisco and Colorado Technical University. I am passionate about exploring the realms of coding, application development, and building robust applications. 
 
 ## 🚀 What I'm Up To
-- 🌌 Building my all-in-one personal assistant LunaPal. Check it out! [lunarlabs website](https://www.lunapal.com/)
+- 🌌 Building my all-in-one personal assistant LunaPal. Check it out! [LunaPal Website](https://www.lunapal.com/)
 - 💻 Exploring Python, Swift, JavaScript and SupaBase (PostgreSQL & Docker).
 
 Check out my [web portfolio](https://olivergilcher.com/)
