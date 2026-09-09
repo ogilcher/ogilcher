@@ -1,22 +1,73 @@
-<h1 align="center">Hi 👋 I'm Oliver Gilcher</h1>
+# Oliver Gilcher
+### Software Engineer focused on backend, platform, systems, and application architecture</h3>
 
-# 💫 About Me:
-I am a third-year computer science student who has attended both the University of San Francisco and Colorado Technical University. I am passionate about exploring the realms of coding, application development, and building robust applications. 
+I build software that sits below the surface: deployment infrastructure, backend services, developer tooling, application architecture, and systems utilities.
 
-## 🚀 What I'm Up To
-- 🌌 Building my all-in-one personal assistant LunaPal. Check it out! [LunaPal Website](https://www.lunapal.com/)
-- 💻 Exploring Python, Swift, JavaScript and SupaBase (PostgreSQL & Docker).
+Currently completing my B.S. in Computer Science while building production-oriented software through LunarLabs and independent engineering projects.
 
-Check out my [web portfolio](https://olivergilcher.com/)
+# Featured Engineering
 
-## 🎓 About Me
+## Lunar Deploy Agent
 
-I enjoy making games and coding robust database programs with the hopes of gaining a deep understanding of Software Engineer principles.
+Deployment orchestration and infrastructure tooling written in Go.
 
-## 🌐 Connect with me:
+- REST API and WebSocket communication
+- Deployment queues and automated pipelines
+- Application health monitoring
+- Authentication and API documentation
+- Retry and failure-handling systems
+- Designed toward multi-node deployment orchestration
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-gilcher/)
+## SwiftUI Navigation Coordinator
 
+A scalable navigation architecture for SwiftUI applications.
+
+- Centralized routing
+- Type-safe feature routes
+- Separation of navigation state from view construction
+- Support for complex and deeply nested application flows
+
+## LunaPal Architecture
+
+Application architecture demonstrating modular system design across SwiftUI, FastAPI, PostgreSQL, Supabase, and cloud infrastructure.
+
+- Dependency injection
+- Modular feature architecture
+- Async networking abstractions
+- Row-level security
+- Privacy and zero-trust design considerations
+
+## LunaWatch
+
+Lightweight monitoring tooling written in C++.
+- HTTP service monitoring
+- CMake-based build system
+- Automated testing
+- Systems-oriented implementation
+
+# Tech
+
+<p>
+  <ul>
+    <li><b>Languages: </b>Go, C++, C, Python, Java, Swift, SQL, TypeScript</li>
+    <li><b>Backend & Systems: </b>REST APIs, WebSockets, FastAPI, PostgreSQL, Supabase, Docker, Linux</li>
+    <li><b>Application Development: </b>SwiftUI, Next.js, TypeScript</li>
+    <li><b>Infrastructure & Tooling: </b>Git, CMake, PM2, Vercel, Azure</li>
+  </ul>
+</p>
+
+# Education
+
+### B.S. Computer Science - Colorado Technical University
+Expected April 2027 | 4.0 GPA
+
+Upsilon Pi Epsilon, National Society of Black Engineers, National Society of Leadership and Success, Golden Key International Honour Society
+
+# Links
+[Portfolio](https://olivergilcher.com)
+[LinkedIn](https://linkedin.com/in/oliver-gilcher)
+
+<!--
 # 💻 Tech Stack:
 Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
@@ -41,3 +92,5 @@ Libraries/Frameworks:
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Drools](https://img.shields.io/badge/Drools-%23FF6347.svg?style=for-the-badge&logo=drools&logoColor=white)
+-->
+
